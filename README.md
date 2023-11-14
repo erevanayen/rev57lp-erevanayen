@@ -24,17 +24,12 @@ Using 6 layers with the top row disabled for less finger travel.
 
 ![Layer 0](/media/layout/layer_0.png "Layer 0")
 ### Layer 1 - Navigation
-Navigation
 ![Layer 1](/media/layout/layer_1.png "Layer 1")
 ### Layer 2 - Numbers and symbols
-Numbers and symbosl
 ![Layer 2](/media/layout/layer_2.png "Layer 2")
 ### Layer 3 - F keys
-F keys
 ![Layer 3](/media/layout/layer_3.png "Layer 3")
 ### Layer 4 - Mouse navigation
-Mouse
 ![Layer 4](/media/layout/layer_4.png "Layer 4")
 ### Layer 5 - Media control
-Media
 ![Layer 5](/media/layout/layer_5.png "Layer 5")
